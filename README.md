@@ -8,11 +8,11 @@ we perform this analysis to find the driving factors (or driver variables) behin
 
 
 # Inference and Conclusions
--Most of loan has sanctioned without proper verifying the income
--Most loans which sanctioned from May 2011 to Dec 2011 is "Charged Off"
--Employee has 10 years of experience, taking more loan.
--Most of loan charged off which term is 60month compared to 36 months
--CA,NY TX, FL are the states where loans given are more
+- Most of loan has sanctioned without proper verifying the income
+- Most loans which sanctioned from May 2011 to Dec 2011 is "Charged Off"
+- Employee has 10 years of experience, taking more loan.
+- Most of loan charged off which term is 60month compared to 36 months
+- CA,NY TX, FL are the states where loans given are more
 
 
 # Technologies Used
@@ -34,4 +34,4 @@ we perform this analysis to find the driving factors (or driver variables) behin
 
 
 # Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@PrabakarTS] - feel free to contact me!
