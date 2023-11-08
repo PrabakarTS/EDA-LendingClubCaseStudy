@@ -7,13 +7,16 @@
 we perform this analysis to find the driving factors (or driver variables) behind risky loans or not paid loans.
 
 
-# Inference and Conclusions
+# Inferences
 - Most of loan has sanctioned without proper verifying the income
 - Most loans which sanctioned from May 2011 to Dec 2011 is "Charged Off"
 - Employee has 10 years of experience, taking more loan.
 - Most of loan charged off which term is 60month compared to 36 months
 - CA,NY TX, FL are the states where loans given are more
+- Most of the loan sanctioned for “Debt-consolidation” purpose
 
+# Recommendation
+- Since most of loan has sanctioned without proper verifying the income, process needs to tighten there, to avoid financial loss
 
 # Technologies Used
 - python - version 3.0
